@@ -1,0 +1,9 @@
+{
+  "id": "unity_explorer",
+  "name": "UnityExplorer",
+  "author": "Sinai, yukieiji, AtlyssModding  (built & uploaded by Max_H)",
+  "version": "4.13.1",
+  "description": "An in-game UI for exploring, debugging and modifying IL2CPP and Mono Unity games..",
+  "thumbnail": "thumbnail.png",
+  "images": [ "thumbnail.png" ]
+}
